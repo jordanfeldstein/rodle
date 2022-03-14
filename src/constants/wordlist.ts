@@ -1,5 +1,5 @@
 export const WORDS = [
-   'jappy',
+  'jappy',
   'japie',
   'rslyn',
 ]
